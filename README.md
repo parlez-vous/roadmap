@@ -1,4 +1,4 @@
-# Product Roadmpa
+# Product Roadmap
 
 This repo contains features for ParlezVous, irrespective of where the code might live.
 
